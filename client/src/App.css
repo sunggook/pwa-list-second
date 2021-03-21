@@ -1,0 +1,52 @@
+/* body {
+  background-color: rgb(21, 21, 21);
+  color: white;
+}
+
+.header .title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.how_to_install {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.pwa_list {
+  background-color: black;
+  color: white;
+  margin: 40 40;
+  height: 500px;
+  width: 100%;
+}
+
+.pwa_detail {
+  background-color: black;
+  color: white;
+  margin: 40 40;
+  height: 500px;
+  width: 100%;
+} */
+
+/*
+ material-ui CSS override
+*/
+/* .MuiDataGrid-root {
+  background-color: #948d8d;
+  color: white !important;
+} */
