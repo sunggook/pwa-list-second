@@ -8,6 +8,8 @@
     "start": "node server.js",
     "server": "node server.js",
     "client": "npm start --prefix client",
+    "client_install": "cd client && npm install",
+    "client_build": "npm run build --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "",
