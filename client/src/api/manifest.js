@@ -24,7 +24,7 @@ const manifest_properties = {
     video: 'https://www.youtube.com/embed/0T3B5BFCurU' // TODO: create youtube and link it.
   },
   installedSite: {
-    name: 'Installed Site',
+    name: 'Installed Sites',
     command: 'installedSite',
     property: '',
     description: 'Installed Site description',
